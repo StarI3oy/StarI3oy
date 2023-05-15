@@ -1,5 +1,5 @@
 
-  <div>
+  <div style="max-height: 550;">
   
   <img src="https://github.com/StarI3oy/StarI3oy/blob/main/res/pixel-night.gif" align="right"  alt="Pixel Night">
   
