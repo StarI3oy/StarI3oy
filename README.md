@@ -1,4 +1,5 @@
 
+  <div>
   
   <img src="https://github.com/StarI3oy/StarI3oy/blob/main/res/pixel-night.gif" align="right"  alt="Pixel Night">
   
@@ -16,5 +17,5 @@
  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarI3oy&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
+  </div>
 
