@@ -7,8 +7,6 @@
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarI3oy&show_icons=true&theme=tokyonight)
 
-<picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarI3oy&layout=compact&theme=tokyonight" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarI3oy&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 
