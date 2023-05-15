@@ -1,6 +1,11 @@
-### Hi there 👋
 
-<!--
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=38C2FF&background=00000088&center=true&width=500&lines=Web-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0;Go-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0;%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%D0%B8+%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)](https://git.io/typing-svg)
+===============
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarI3oy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **StarI3oy/StarI3oy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
