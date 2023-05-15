@@ -1,5 +1,5 @@
-<div>
-![](https://github.com/StarI3oy/StarI3oy/res/pixel-night.gif)
+
+![Pixel Night](https://github.com/StarI3oy/StarI3oy/blob/main/res/pixel-night.gif)
 
 ===============
 
@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-</div>
