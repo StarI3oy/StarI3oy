@@ -1,6 +1,6 @@
 <div>
   
-  <img src="(https://github.com/StarI3oy/StarI3oy/blob/main/res/pixel-night.gif)" alt="Pixel Night" />
+  <img src="https://github.com/StarI3oy/StarI3oy/blob/main/res/pixel-night.gif" alt="Pixel Night" />
 
   
   
