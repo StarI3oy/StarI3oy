@@ -11,7 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarI3oy&show_icons=true&theme=tokyonight)
   
 
-<img src="https://github.com/StarI3oy/StarI3oy/blob/main/res/dna.gif" align="right" width="100" height="200" alt="dna">
+<img src="https://github.com/StarI3oy/StarI3oy/blob/main/res/dna.gif" align="right" height="200" width="510" alt="dna">
 
  
   
