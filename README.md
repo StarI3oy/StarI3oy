@@ -6,4 +6,7 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StarI3oy&theme=tokyonight" width="45%" ></img> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StarI3oy&theme=tokyonight" width="45%" ></img> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=StarI3oy&theme=tokyonight" width="45%" ></img> 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=StarI3oy&theme=tokyonight" width="45%" ></img>
 <img src="https://github.com/StarI3oy/StarI3oy/blob/main/res/dna.gif" height="25%" width="90%"></img> 
