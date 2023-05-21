@@ -10,6 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=StarI3oy&theme=tokyonight" width="45%" ></img> 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=StarI3oy&theme=tokyonight" width="45%" ></img>
 
-<img src="https://profile-counter.glitch.me/{StarI3oy}/count.svg" alt="madushadhanushka :: Visitor's Count" width="90%"/>
+<img src="https://profile-counter.glitch.me/{StarI3oy}/count.svgs" alt="madushadhanushka :: Visitor's Count" width="90%"/>
 
 <img src="https://github.com/StarI3oy/StarI3oy/blob/main/res/dna.gif" height="25%" width="90%"></img> 
