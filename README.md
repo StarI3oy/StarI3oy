@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=StarI3oy)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github.com/StarI3oy/StarI3oy/blob/main/res/pixel-night.gif" height="25%" width="90%"></img>
 
